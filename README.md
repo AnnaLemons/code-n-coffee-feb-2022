@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/max/3150/1*NFwzjjur2atssvIlGia0AQ.jpeg" width="200" style="float:right">
+
 # Code'n'Coffee 2022
 
 Materiales | Workshop **Code'n'Coffee** impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
