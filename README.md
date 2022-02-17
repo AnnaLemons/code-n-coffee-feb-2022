@@ -8,7 +8,7 @@ Puedes ver el producto que desarrollamos durante el Workshop [en este enlace](ht
 
 ### Grabación
 
-La grabación completa del evento se encuentra disponible [en este enlace](https://germanalvarez.net/code-n-coffe/)
+La grabación completa del evento se encuentra disponible [en este enlace](https://ironhack.zoom.us/rec/share/SZ6ujUs2Gp7RFxm4NmxUbjjc5Iardx3peN6IKXuRfOeh3jHSvslFxMVZMn_ymWBE.HU_k3662iVS5yG4_)
 
 ### Recursos utilizados
 
@@ -42,7 +42,9 @@ Muestra en este gráfico de línea la comparativa entre la velocidad de las dife
 
 Un gráfico _mixto_ es aquel que dispone de varios juegos de datos o _datasets_ con diferentes tipos de gráficos asociados. Estos se funden en un solo chart combinado. De hecho, el último de nuestros gráficos es combinado ya que dispone de dos `datasets` con un tipo específico asociado.
 
-Añade a este gráfico un tercer `dataset` que muestre a través de una línea la comparativa de longitud. De esta forma tendremos en un solo gráfico las tres propiedades principales de cada montaña rusa comparadas: velocidad, altura y ahora, longitud! Por supuesto, asocia un color diferente para esta línea.
+Añade a este gráfico un tercer `dataset` que muestre a través de una línea la comparativa de longitud. De esta forma tendremos en un solo gráfico las tres propiedades principales de cada montaña rusa comparadas: velocidad, altura, y ahora... ¡longitud! 
+
+Por supuesto, asocia un color diferente para esta línea.
 
 
 ### Challenge 3: crea tu gráfico mixto
